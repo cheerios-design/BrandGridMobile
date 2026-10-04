@@ -6,7 +6,7 @@ BrandGrid Mobile is a brand guideline and color inspection tool for digital desi
 
 I built this app to give designers a quick, pocket-sized way to check how a set of brand colors works together, and to practice state management, navigation, and local storage in a mobile app.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1AUIMeOXzl-EyTH2h7HplPHxeggFWFfT5/view?usp=sharing)
 
 # Development Environment
 
